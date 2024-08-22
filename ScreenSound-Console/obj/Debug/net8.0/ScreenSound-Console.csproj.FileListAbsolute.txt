@@ -1,0 +1,15 @@
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\bin\Debug\net8.0\ScreenSound-Console.exe
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\bin\Debug\net8.0\ScreenSound-Console.deps.json
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\bin\Debug\net8.0\ScreenSound-Console.runtimeconfig.json
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\bin\Debug\net8.0\ScreenSound-Console.dll
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\bin\Debug\net8.0\ScreenSound-Console.pdb
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ScreenSound-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ScreenSound-Console.AssemblyInfoInputs.cache
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ScreenSound-Console.AssemblyInfo.cs
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ScreenSound-Console.csproj.CoreCompileInputs.cache
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ScreenSound-Console.dll
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\refint\ScreenSound-Console.dll
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ScreenSound-Console.pdb
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ScreenSound-Console.genruntimeconfig.cache
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ref\ScreenSound-Console.dll
+C:\Users\ygorg\source\repos\ScreenSound-Console\ScreenSound-Console\obj\Debug\net8.0\ScreenSound-Console.sourcelink.json
