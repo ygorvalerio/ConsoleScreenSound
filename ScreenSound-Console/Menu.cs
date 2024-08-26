@@ -17,6 +17,7 @@
         Console.WriteLine("Digite 3 para avaliar uma banda");
         Console.WriteLine("Digite 4 para exibir a média de uma banda");
         Console.WriteLine("Digite X para sair");
-        Console.WriteLine("teste");
+        Console.WriteLine("\n Digite sua opção: ");
     }
+
 }
