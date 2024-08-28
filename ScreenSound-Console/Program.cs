@@ -1,6 +1,7 @@
 ﻿Menu menu = new Menu();
 OpcaoEscolhida opcao = new OpcaoEscolhida();
 
+
 menu.LogoInicial();
 menu.MenuOpções();
 

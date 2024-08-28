@@ -1,5 +1,6 @@
 ﻿class OpcaoEscolhida
 {
+    RegistrarBanda banda = new RegistrarBanda();
     public int Opcao { get; }
 
     public void OpcaoEscolhidaNumerica(int opcao)
@@ -8,7 +9,8 @@
 
         switch (opcao)
         {
-            case 1:Console.WriteLine("\nVocê escolheu a opção 1");
+            case 1: banda.RegistrarBandas();
+                
                 break;
             case 2:
                 Console.WriteLine("\nVocê escolheu a opção 2");
