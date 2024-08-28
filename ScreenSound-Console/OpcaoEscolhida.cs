@@ -5,18 +5,29 @@
     public void OpcaoEscolhidaNumerica(int opcao)
 
     {
-        
-            if (opcao == 0)
-            {
-                Environment.Exit(0); // Fecha o console se a opção for 0
-            }
+
+        switch (opcao)
+        {
+            case 1:Console.WriteLine("\nVocê escolheu a opção 1");
+                break;
+            case 2:
+                Console.WriteLine("\nVocê escolheu a opção 2");
+                break;
+            case 3:
+                Console.WriteLine("\nVocê escolheu a opção 3");
+                break;
+            case 4:
+                Console.WriteLine("\nVocê escolheu a opção 4");
+                break;
+            case 5:
+                Console.WriteLine("\nVocê escolheu a opção 5");
+                break;
 
 
-        
-        if (opcao == 1) 
-            {
-            Console.WriteLine("Opção 1 escolhida");
+            default:
+                Console.WriteLine("\nOpção invalida!");
+                break;
         }
-    }
 
+    }
 }
