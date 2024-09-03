@@ -1,7 +1,7 @@
 ﻿class OpcaoEscolhida
 {
     RegistrarBanda banda = new RegistrarBanda();
-    public int Opcao { get; }
+    
 
     public void OpcaoEscolhidaNumerica(int opcao)
 

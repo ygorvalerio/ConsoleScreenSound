@@ -1,11 +1,10 @@
 ﻿Menu menu = new Menu();
+
 OpcaoEscolhida opcao = new OpcaoEscolhida();
 
-
 menu.LogoInicial();
-menu.MenuOpcoes();
+menu.MenuOpcoes(Console.ReadLine = opcao);
 
 
-opcao.OpcaoEscolhidaNumerica(int.Parse(Console.ReadLine()!));
 
 

@@ -1,6 +1,7 @@
 ﻿class RegistrarBanda
 
 {
+
     Menu menu = new Menu();
     public void RegistrarBandas()
     {
@@ -12,7 +13,8 @@
         Thread.Sleep( 2000 );
         Console.Clear() ;
         menu.LogoInicial();
-        menu.MenuOpções();
+        menu.MenuOpcoes();
+        
 
     }
 }
