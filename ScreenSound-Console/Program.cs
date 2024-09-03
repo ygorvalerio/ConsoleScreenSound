@@ -3,7 +3,8 @@ OpcaoEscolhida opcao = new OpcaoEscolhida();
 
 
 menu.LogoInicial();
-menu.MenuOpções();
+menu.MenuOpcoes();
+
 
 opcao.OpcaoEscolhidaNumerica(int.Parse(Console.ReadLine()!));
 
